@@ -1,0 +1,34 @@
+# Flutter/Dart build outputs
+build/
+.dart_tool/
+.packages
+.pub/
+*.iml
+
+# Android
+android/.gradle/
+android/local.properties
+android/captures/
+android/app/*.jks
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/.last_build_id
+ios/Runner/GeneratedPluginRegistrant.*
+
+# Environment & API keys
+.env
+.env.*
+*.key
+*.keystore
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

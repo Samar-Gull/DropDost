@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "167315489149",
+    "project_id": "dropdost11",
+    "storage_bucket": "dropdost11.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167315489149:android:5cec7b42eae5afca594c14",
+        "android_client_info": {
+          "package_name": "com.example.dropdost"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZwsBp_E2Hb8CWXAUwVWMYm2F0VfxOn7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
